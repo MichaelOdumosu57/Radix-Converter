@@ -1,0 +1,4 @@
+http://stackoverflow.com/questions/15308783/store-an-integer-value-in-a-character-array-in-c
+http://stackoverflow.com/questions/17292545/how-to-check-if-the-input-is-a-number-or-not-in-c
+
+helpful stuff i used
